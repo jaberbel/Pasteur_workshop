@@ -4,7 +4,9 @@ This workshop is an intro to using R and GIS.
 
 R Packages:
 library (sp)
+
 library(raster)
+
 library (rgdal)
 library(dplyr) 
 library(rgeos)
