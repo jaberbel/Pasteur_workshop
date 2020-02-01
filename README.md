@@ -3,11 +3,11 @@ GIS workshop for Pasteur institute
 This workshop is an intro to using R and GIS. Please download the folder in your Desktop. You will find all the code documents needed and the powerpoint presentation
 
 R Packages:
-- library (sp)
-- library(raster)
-- library (rgdal)
-- library(dplyr) 
-- library(rgeos)
+- library (sp) : https://cran.r-project.org/web/packages/sp/sp.pdf
+- library(raster): https://cran.r-project.org/web/packages/raster/
+- library (rgdal): https://cran.r-project.org/web/packages/rgdal/index.html
+- library(dplyr) :https://www.rdocumentation.org/packages/dplyr/versions/0.7.8
+- library(rgeos): https://www.rdocumentation.org/packages/rgeos/versions/0.5-2
 
 1- I will be using csv data on Corona virus from this website https://martinedoesgis.github.io/novel-coronavirus/map.html
 
