@@ -1,6 +1,6 @@
 # Pasteur_workshop
 GIS workshop for Pasteur institute
-This workshop is an intro to using R and GIS.
+This workshop is an intro to using R and GIS. Please download the folder in your Desktop. You will find all the code documents needed and the powerpoint presentation
 
 R Packages:
 - library (sp)
